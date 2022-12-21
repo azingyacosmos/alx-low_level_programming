@@ -1,10 +1,11 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * _strncpy - Function that copies a string
  * @dest: Pointer to a character that will be changed
  * @src: Pointer to a character that will be changed
  * @n: value
+ *
  * Return: dest
  */
 
