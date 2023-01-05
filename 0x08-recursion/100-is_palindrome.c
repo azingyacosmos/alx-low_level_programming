@@ -19,7 +19,7 @@ int palindromeChecker(char *str, int len, int i)
 
 /**
  * int _strlen_recursion(char *s)
- * @s: the string to check
+ * @s: the string to check the length of
  * Return: an integer that displays the length of the string
  */
 
