@@ -30,7 +30,7 @@ unsigned int binary_to_uint(const char *b)
 			place *= 2;
 			continue;
 		}
-		return(0);
+		return (0);
 	}
 	return (uint);
 }
